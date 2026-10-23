@@ -37,8 +37,8 @@ test_bot/
 Создайте файл `.env` в папке проекта:
 
 ```env
-BOT_TOKEN=123456789:AAExampleTokenFromBotFather
-SUPPORT_CHAT_ID=-1003888015937
+BOT_TOKEN=r
+SUPPORT_CHAT_ID=
 ```
 
 Файл `.env` не должен попадать в GitHub. Добавьте его в `.gitignore`, а также `tickets.db` и `venv/`:
