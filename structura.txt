@@ -1,0 +1,8 @@
+test_bot/
+├── bot.py
+├── config.py
+├── db.py
+├── faq.py
+├── handlers.py
+├── requirements.txt
+└── .env

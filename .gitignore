@@ -1,0 +1,23 @@
+# Секреты и переменные окружения
+.env
+*.env
+->.env
+
+# Виртуальное окружение Python
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Логи и базы данных
+*.log
+*.db
+*.sqlite3
+
+# Файлы редакторов и системы
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
